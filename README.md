@@ -1,15 +1,42 @@
-![CF](http://i.imgur.com/7v5ASc8.png) 00: Deployment
-====================================================
+![CF](http://i.imgur.com/7v5ASc8.png) LAB
+=================================================
 
-### Get this code up and running Travis and Heroku!
+## Project Name
 
-- Create a git repo (fork this one)
+### Author: Student/Group Name
 
-- Create a branch rule disallowing merges to master unless Travis builds are green.
+### Links and Resources
+* [repo](http://xyz.com)
+* [travis](http://xyz.com)
+* [back-end](http://xyz.com)
+* [front-end](http://xyz.com)
 
-- Connect Travis to your git account
-  - It should find this repo
+### Modules
+#### `modulename.js`
+##### Exported Values and Methods
 
-- Connect your Heroku to your git repo
-  - Set it to auto deploy from master (or any named branch)
-  - Optionally, set it to require CI (this will cause Heroku not to deploy without a passing travis build)
+###### `foo(thing) -> string`
+Usage Notes or examples
+
+###### `bar(array) -> array`
+Usage Notes or examples
+
+### Setup
+#### `.env` requirements
+* `PORT` - Port Number
+* `MONGODB_URI` - URL to the running mongo instance/db
+
+#### Running the app
+* `npm start`
+* Endpoint: `/foo/bar/`
+  * Returns a JSON object with abc in it.
+* Endpoint: `/bing/zing/`
+  * Returns a JSON object with xyz in it.
+
+#### Tests
+* How do you run tests?
+* What assertions were made?
+* What assertions need to be / should be made?
+
+#### UML
+Link to an image of the UML for your application and response to events

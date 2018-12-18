@@ -6,9 +6,9 @@
 ### Author: Ryan Gallaway
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
+* [repo](https://github.com/rkgallaway/00-deployment)
+* [travis](https://travis-ci.com/rkgallaway/00-deployment/pull_requests)
+* [back-end](https://lab-00-deployment.herokuapp.com/)
 * [front-end](http://xyz.com)
 
 ### Modules

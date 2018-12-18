@@ -1,9 +1,9 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+![CF](http://i.imgur.com/7v5ASc8.png) LAB 00-deployment
 =================================================
 
-## Project Name
+## Lab 00-deployment
 
-### Author: Student/Group Name
+### Author: Ryan Gallaway
 
 ### Links and Resources
 * [repo](http://xyz.com)
